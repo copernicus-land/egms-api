@@ -11,6 +11,12 @@ How to get the access token:
 3. Generate your personal CLMS API access token
 4. Place the CLMS API token in the same directory as the notebook and name it token.jwt.
 
+🛠️ What you need
+
+Before starting, make sure you have:
+- Python (version 3.8 or higher)
+- pyjwt and requests packages
+
 ⚠️ Important:
 
 - Keep your token private
