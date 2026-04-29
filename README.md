@@ -15,7 +15,7 @@ How to get the access token:
 
 Before starting, make sure you have:
 - Python (version 3.8 or higher)
-- pyjwt and requests packages
+- pyjwt and requests packages installed
 
 ⚠️ Important:
 
