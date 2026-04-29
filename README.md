@@ -3,13 +3,13 @@ This repository contains a Jupyter Notebook designed to download EGMS data using
 
 🔐 Access to EGMS (Required)
 
-To use this notebook, you must obtain an access token from the Copernicus Land Monitoring Service website.
+To use this notebook, you must obtain a CLMS API token from the Copernicus Land Monitoring Service website.
 
-How to get your access token:
+How to get the access token:
 1. Go to the CLMS website
 2. Create an account or log in
-3. Generate your personal access token
-4. Copy the token for use in the notebook
+3. Generate your personal CLMS API access token
+4. Place the CLMS API token in the same directory as the notebook and name it token.jwt.
 
 ⚠️ Important:
 
