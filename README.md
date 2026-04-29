@@ -18,6 +18,4 @@ How to get your access token:
 
 ⚙️ Notes
 
-Download time depends on data size and connection speed
-Large requests may take several minutes or longer
-Make sure you have enough disk space for the data
+Download time depends on data size and connection speed. Large requests may take several minutes or longer. Make sure you have enough disk space for the data
